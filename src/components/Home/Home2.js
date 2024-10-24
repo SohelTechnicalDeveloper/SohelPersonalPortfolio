@@ -20,22 +20,22 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              I have developed a deep passion for programming, continually
+              expanding my <b className="purple">skills</b> and{" "}
+              <b className="purple">knowledge</b>. Each project has taught me
+              valuable lessons, and I’m excited to keep growing and applying
+              what I have learned to real-world challenges. 🤷‍♂️
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple">  Javascript and Reactjs. </b>
+                <b className="purple"> Javascript , Reactjs and Nodejs. </b>
               </i>
               <br />
               <br />
               My field of Interest's are building new &nbsp;
               <i>
                 <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Blockchain.
-                </b>
+                also in areas related to <b className="purple">Blockchain.</b>
               </i>
               <br />
               <br />
@@ -68,8 +68,8 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                href="https://github.com/SohelTechnicalDeveloper"
-                target="_blank"
+                  href="https://github.com/SohelTechnicalDeveloper"
+                  target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
@@ -88,8 +88,8 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                href="https://www.linkedin.com/in/sohel-khan-80a137235/"
-                target="_blank"
+                  href="https://www.linkedin.com/in/sohel-khan-80a137235/"
+                  target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >

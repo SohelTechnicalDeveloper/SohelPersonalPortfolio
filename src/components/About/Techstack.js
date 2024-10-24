@@ -8,13 +8,6 @@ import {
   DiGit,
 } from "react-icons/di";
 import { FaBootstrap, FaCss3 } from "react-icons/fa";
-import {
-  SiRedis,
-  SiFirebase,
-  SiNextdotjs,
-  SiSolidity,
-  SiPostgresql,
-} from "react-icons/si";
 
 function Techstack() {
   return (
